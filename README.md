@@ -23,6 +23,7 @@ Tämä on koulutehtävä.
 Tässä pieni pätkä Pythonilla:
 ```python
 print("Moi maailma! Tämä on GitHub Pages -sivulta!")
+```
 
 ## Tehtävälista
 - [x] Luo GitHub-repo
